@@ -3,7 +3,7 @@
 // For use by Hazel Applications
 
 #include "Hazel/Application.h"
-#include <stdio.h>
+#include "Hazel/Log.h"
 
 
 // ---------Entry Point--------------
